@@ -9,6 +9,7 @@
 - _Redux Toolkit_
 - _Tailwind_
 - _Semantic ui_
+- _Stylelint_
 - _React icons_
 
 **_Preview_**
