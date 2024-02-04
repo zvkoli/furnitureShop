@@ -4,6 +4,8 @@
 
 **_Project Dependencies_**
 
+**_in v 1.0 :_**
+
 - _Next_
 - _Typescript_
 - _Redux Toolkit_
@@ -12,7 +14,10 @@
 - _Stylelint_
 - _React icons_
 
-Using createAsyncThunk to get and fetch article information
+**_Changes in v 2.0 :_**
+
+- _Using **createAsyncThunk** to get and fetch articles information ._
+- _Separation of interfaces and changes in the types directory ._
 
 **_Preview_**
 
