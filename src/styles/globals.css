@@ -1,0 +1,29 @@
+@import url("~semantic-ui-css/semantic.min.css");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: Sans;
+    src: url("../../public/font/Sans a4fran3.ttf") format("ttf"),
+      url("../../public/font/Sans a4fran3.woff") format("woff");
+    font-display: swap;
+  }
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #f8fafc;
+}
+
+#dropdown {
+  border: hidden;
+  box-shadow: none;
+  background-color: #f8fafc;
+}
