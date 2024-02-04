@@ -12,6 +12,8 @@
 - _Stylelint_
 - _React icons_
 
+Using createAsyncThunk to get and fetch article information
+
 **_Preview_**
 
 ![01](https://github.com/zvkoli/furnitureShop/assets/100797809/3d29b61b-d426-446e-8cfc-003ccd746c71)
