@@ -19,7 +19,7 @@ const ArticleList = () => {
 
     const callApi = async () => {
       try {
-        const res = await fetch(process.env.URL_API_ARTICLES || "http://localhost:3000/api/articles");
+        const res = await fetch(process.env.URL_API_ARTICLES");
         const data = await res.json();
 
         setData(data.articlesdata);
