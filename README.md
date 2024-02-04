@@ -14,10 +14,9 @@
 - _Stylelint_
 - _React icons_
 
-**_Changes in v 2.0 :_**
+**_The most important changes in v 2.0 :_**
 
 - _Using **createAsyncThunk** to get and fetch articles information ._
-- _Separation of interfaces and changes in the types directory ._
 
 **_Preview_**
 
