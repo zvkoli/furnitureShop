@@ -6,7 +6,7 @@ export const fetchArticles = createAsyncThunk(
   "articles/fetchArticles",
   async (_, thunkAPI) => {
     try {
-      const res = await fetch("http://localhost:3000/api/articles");
+      const res = await fetch(process.env.URL_API_ARTICLES);
       const data = await res.json();
       return data.articlesdata;
     } catch (error: string | any) {
