@@ -18,6 +18,10 @@
 
 - _Using **createAsyncThunk** to get and fetch articles information ._
 
+**_The most important changes in v 3.0 :_**
+
+- _Using **React Query** to get and fetch articles information ._
+
 **_Preview_**
 
 ![01](https://github.com/zvkoli/furnitureShop/assets/100797809/3d29b61b-d426-446e-8cfc-003ccd746c71)
